@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PHRM</string>
+    <string name="facebook_app_id">384558705309331</string>
+    <string name="fb_login_protocol_scheme">fb384558705309331</string>
+
+
+    <string name="welcome_text">welcome</string>
+    <string name="nutrition_plan" />
+    <string name="language_settings">ভাষা</string>
+    <string name="change_password">পাসওয়ার্ড পরিবর্তন</string>
+    <string name="settings_title">সেটিংস‌</string>
+    <string name="home_title">হোম</string>
+    <string name="health_plan">হেলথ প্ল্যান</string>
+    <string name="test_record">টেস্ট রেকর্ড</string>
+    <string name="bottom_nev_home">হোম</string>
+    <string name="bottom_nev_notification">নোটিফিকেশান</string>
+    <string name="bottom_nev_reports">রিপোর্ট গুলো</string>
+    <string name="menu_log_out">লগ আউট</string>
+    <string name="nutration_plan_title">নিউট্রিশন প্ল্যান</string>
+    <string name="add_meal_button">খাবার যোগ করুন</string>
+    <string name="meal_reminder">মিল রিমাইন্ডার</string>
+    <string name="reminders_to_have_your_meal">খাবারের সময় জানতে রিমাইন্ডার সেট করুন</string>
+    <string name="breakfast">সকালের নাস্তা</string>
+    <string name="lunch">দুপুরের খাবার</string>
+    <string name="snack">হালকা নাস্তা</string>
+    <string name="dinner">রাতের খাবার</string>
+    <string name="_meal_reminder">সময় সেট করুন</string>
+    <string name="create_medication_plan_title">ওষুধের সময়সূচী নির্ধারণ করুন</string>
+    <string name="creat_plan_medication">ওষুধের সূচীতে যোগ করুন</string>
+    <string name="click_icon_to_set_time_medication">সময় সেট করুন</string>
+    <string name="medicines_information">ওষুধের বিবরণ:</string>
+    <string name="medicines_information_here">এখানে ওষুধের বিবরণ দিন</string>
+    <string name="repeat_medication_alerm">রিপিট:</string>
+    <string name="today_medication_alerm">আজ</string>
+    <string name="everyday_medication_alerm">প্রতিদিন</string>
+    <string name="custom_medication_alerm">কাস্টম</string>
+    <string name="no_medication_plan_created">ওষুধের কোন সূচী তৈরি করা নেই</string>
+    <string name="medication_plan_title">ওষুধের সময়সূচী</string>
+    <!--Used in activity_welcome_screen.xml textview-->
+
+    <string-array name="settings_item">
+        <item>পাসওয়ার্ড পরিবর্তন</item>
+        <item>ভাষা</item>
+    </string-array>
+
+    <string-array name="grid_daily_routine">
+        <item>খাদ্য ও পুষ্টি</item>
+        <item>ব্যায়াম</item>
+        <item>ঔষধ</item>
+    </string-array>
+
+    <string-array name="grid_test_record">
+        <item>রক্তচাপ</item>
+        <item>গ্লুকোজ</item>
+        <item>বি এম আই</item>
+    </string-array>
+
+    <string-array name="grid_daily_routine_button">
+        <item>ব্যবস্থাপনা</item>
+        <item>হালনাগাদ</item>
+    </string-array>
+
+    <string-array name="grid_test_record_button">
+        <item>হালনাগাদ</item>
+        <item>হালনাগাদ</item>
+        <item>হালনাগাদ</item>
+    </string-array>
+
+    //nutrition
+    <string-array name="nutrition_items">
+        <item>ক্যালরি</item>
+        <item>শর্করা</item>
+        <item>ফ্যাট</item>
+        <item>প্রোটিন</item>
+    </string-array>
+
+    <string-array name="gained_and_necessary_nutrition">
+        <item>০</item>
+        <item>০</item>
+        <item>০</item>
+        <item>০</item>
+        <item>০</item>
+    </string-array>
+
+    <string-array name="food_search">
+        <item>Rice</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Grapes</item>
+        <item>Jackfruit</item>
+        <item>Litchi</item>
+        <item>Pineapple</item>
+        <item>Guava</item>
+        <item>Watermelon</item>
+        <item>Beans</item>
+        <item>Tomato</item>
+        <item>Beet</item>
+        <item>Radish</item>
+        <item>Cauliflower</item>
+        <item>Cabbage</item>
+        <item>Gourd</item>
+        <item>Grass Carp</item>
+        <item>Hilsha shad</item>
+        <item>Salmon</item>
+        <item>catfish</item>
+        <item>Tilapia</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Duck</item>
+        <item>Goat</item>
+        <item>milk</item>
+        <item>Egg</item>
+
+    </string-array>
+
+    <string-array name="bn_food_search">
+        <item>ভাত</item>
+        <item>আম</item>
+        <item>কলা</item>
+        <item>আপেল</item>
+        <item>আঙ্গুর</item>
+        <item>কাঁঠাল</item>
+        <item>লিচু</item>
+        <item>আনারস</item>
+        <item>পেয়ারা</item>
+        <item>তরমুজ</item>
+        <item>মটরশুঁটি</item>
+        <item>টমেটো</item>
+        <item>বীট</item>
+        <item>মূলা</item>
+        <item>ফুলকপি</item>
+        <item>বাঁধাকপি</item>
+        <item>লাউ</item>
+        <item>গ্রাস কার্প মাছ</item>
+        <item>ইলিশ মাছ</item>
+        <item>স্যালমন মাছ</item>
+        <item>মাগুর মাছ</item>
+        <item>তেলাপিয়া মাছ</item>
+        <item>মুরগী মাংস</item>
+        <item>গরু মাংস</item>
+        <item>হাঁসের মাংস</item>
+        <item>ছাগলের মাংস</item>
+        <item>দুধ</item>
+        <item>ডিম</item>
+
+    </string-array>
+
+    <string-array name="exercise_met">
+        <item>3.0</item>
+        <item>3.5</item>
+        <item>4.0</item>
+        <item>7.0</item>
+        <item>8.0</item>
+        <item>8.5</item>
+        <item>11.0</item>
+        <item>13.0</item>
+        <item>14.0</item>
+        <item>6.0</item>
+        <item>8.0</item>
+        <item>10.0</item>
+        <item>8.0</item>
+        <item>10.0</item>
+        <item>11.0</item>
+        <item>8.8</item>
+        <item>11.8</item>
+        <item>12.3</item>
+        <item>3.8</item>
+        <item>8.0</item>
+        <item>2.5</item>
+        <item>4.0</item>
+        <item>2.0</item>
+
+    </string-array>
+
+    <string-array name="days_of_weak">
+        <item>রবি</item>
+        <item>সোম</item>
+        <item>মঙ্গল</item>
+        <item>বুধ</item>
+        <item>বৃহস্পতি</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+
+    <string-array name="exercise_duration">
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>২০ মিনিট</item>
+        <item>২৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>৪০ মিনিট</item>
+        <item>৪৫ মিনিট</item>
+        <item>৫০ মিনিট</item>
+        <item>৬০ মিনিট</item>
+        <item>৭৫ মিনিট</item>
+        <item>৯০ মিনিট</item>
+
+    </string-array>
+
+</resources>
